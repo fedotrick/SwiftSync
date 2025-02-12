@@ -21,7 +21,7 @@ class FileCopier(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Копирование файлов")
-        self.setMinimumSize(400, 200)
+        self.setMinimumSize(400, 300)
         
         central_widget = QWidget()
         self.setCentralWidget(central_widget)
