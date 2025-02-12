@@ -74,4 +74,4 @@ python file_copier.py
 ## 📬 Контакты
 
 Имя - [Андрей Федотов]
-GitHub - [@fedotrik](https://github.com/fedotrik)
+GitHub - [@fedotrick](https://github.com/fedotrick)
